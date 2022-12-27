@@ -1,0 +1,15 @@
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\bin\Debug\net6.0\quizz-csharp.exe
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\bin\Debug\net6.0\quizz-csharp.deps.json
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\bin\Debug\net6.0\quizz-csharp.runtimeconfig.json
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\bin\Debug\net6.0\quizz-csharp.dll
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\bin\Debug\net6.0\quizz-csharp.pdb
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.csproj.AssemblyReference.cache
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.AssemblyInfoInputs.cache
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.AssemblyInfo.cs
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.dll
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\refint\quizz-csharp.dll
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.pdb
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\quizz-csharp.genruntimeconfig.cache
+C:\Users\Nodi\Desktop\M2i\quizz-csharp\obj\Debug\net6.0\ref\quizz-csharp.dll
