@@ -8,16 +8,21 @@ int[] array = new int[3];
 
 {
  int i = 0;
- int answer = 0;
+ string answer = "";
+ int checkInt = 0;
  while (i < array.Length)
  {
   Console.WriteLine($"Choisissez un nombre entre 1 et 50 ({i}):");
-  answer = Convert.ToInt32(Console.ReadLine());
+  answer = Console.ReadLine();
 
-  if (i <= 50 || i >= 1)
+  if (!int.TryParse(answer, out checkInt))
+  {
+   Console.WriteLine("Merci d'entrer un nombre entier!");
+  }
+  else if (i <= 50 || i >= 1)
   {
    Console.WriteLine("Noté!");
-   array[i] = answer;
+   array[i] = Convert.ToInt32(answer);
    i++;
   }
   else
