@@ -1,0 +1,15 @@
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\bin\Debug\net6.0\01-entrainement.exe
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\bin\Debug\net6.0\01-entrainement.deps.json
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\bin\Debug\net6.0\01-entrainement.runtimeconfig.json
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\bin\Debug\net6.0\01-entrainement.dll
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\bin\Debug\net6.0\01-entrainement.pdb
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.csproj.AssemblyReference.cache
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.AssemblyInfoInputs.cache
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.AssemblyInfo.cs
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.csproj.CoreCompileInputs.cache
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.dll
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\refint\01-entrainement.dll
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.pdb
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\01-entrainement.genruntimeconfig.cache
+C:\Users\Nodi\Desktop\M2i\Projets-Entrainement\01-entrainement\obj\Debug\net6.0\ref\01-entrainement.dll
